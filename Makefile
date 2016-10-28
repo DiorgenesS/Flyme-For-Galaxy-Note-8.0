@@ -21,7 +21,7 @@ DENSITY := xhdpi
 # It depends on the device's resolution, such as 480x854, 540x960, 720x1280, 1080x1920.
 # The default value is nothing.
 #-----------------------------------------------------------------------------
-RESOLUTION := 1280x800
+RESOLUTION := 800x1280
 
 ##############################################################################
 # The value decides whether use prebuilt image or pack from the BOOT or RECOVERY directory in the vendor directory.
