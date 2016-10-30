@@ -38925,7 +38925,7 @@
     const/4 v0, 0x0
 
     .local v0, "bitmapDrawable":Landroid/graphics/drawable/BitmapDrawable;
-    if-eqz p1, :cond_0
+    goto :cond_0
 
     iget-object v1, p0, Landroid/view/View;->mContext:Landroid/content/Context;
 
